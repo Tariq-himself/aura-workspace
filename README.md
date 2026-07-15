@@ -16,7 +16,7 @@ Internal HR tools are usually clunky, text-heavy, and fragmented across Slack, e
 
 | Layer | Choice |
 |---|---|
-| Framework | Next.js 14 (App Router) |
+| Framework | Next.js 16 (App Router) |
 | Language | TypeScript |
 | Styling | Tailwind CSS with RTL-ready logical properties |
 | Animations | GSAP + ScrollTrigger |

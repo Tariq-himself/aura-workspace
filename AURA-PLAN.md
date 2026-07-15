@@ -57,8 +57,8 @@ routes/
 
 | Layer | Choice |
 |---|---|
-| Frontend | Next.js 14 (App Router), React, TypeScript |
-| Styling | Tailwind CSS with RTL-ready logical properties |
+| Frontend | Next.js 16 (App Router), React 19, TypeScript |
+| Styling | Tailwind CSS v4 with RTL-ready logical properties |
 | Animations | GSAP + ScrollTrigger |
 | State | React Server Components + Server Actions where possible |
 | Backend | Laravel 11 + Sanctum |
