@@ -29,11 +29,11 @@ Aura Workspace is a premium, full-stack HR Workspace Hub built to replace fragme
 ### `aura-workspace` (Frontend)
 
 ```
-apps/
-  web/              → Next.js 14 App Router
-packages/
-  ui/               → Shared Tailwind + GSAP components
-  config/           → ESLint, TypeScript, Tailwind presets
+app/              → Next.js App Router pages and layouts
+components/       → Shared React components
+lib/              → Utilities, hooks, API clients
+styles/           → Global CSS and Tailwind config
+public/           → Static assets
 ```
 
 ### `aura-core` (Backend)

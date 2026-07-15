@@ -56,6 +56,7 @@ styles/           → Global CSS and Tailwind config
 public/           → Static assets
 ```
 
+
 ---
 
 ## Development
